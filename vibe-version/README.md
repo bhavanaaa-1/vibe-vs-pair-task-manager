@@ -1,20 +1,31 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Vibe Version
 
-# Run and deploy your AI Studio app
+This folder contains the Task Manager application built using a generative AI app-building tool.
 
-This contains everything you need to run your app locally.
+## Tool Used
 
-View your app in AI Studio: https://ai.studio/apps/a939ebd0-bbcd-4522-ab00-e0b0c1462caa
+**Google AI Studio Build**
 
-## Run Locally
+## Time to Build
 
-**Prerequisites:**  Node.js
+**Approximately 2 minutes 15 seconds**
 
+## Application
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+The application implements the required Task Manager features:
+
+- Add a task using the input field and Add button
+- Mark tasks as completed
+- Filter tasks using All, Active, and Completed
+- Display the number of tasks remaining
+- Tasks reset when the page is refreshed
+- No backend, authentication, persistence, or routing was added
+
+## Project Structure
+
+The generated project uses React, TypeScript, and Vite.
+
+The main application component is:
+
+```text
+src/App.tsx
