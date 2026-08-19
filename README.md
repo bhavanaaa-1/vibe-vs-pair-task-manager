@@ -73,4 +73,4 @@ No backend, authentication, persistence, routing, or additional features were ad
 ## How to Submit
 
 1. **PR Link:** https://github.com/bhavanaaa-1/vibe-vs-pair-task-manager/pull/1
-2. **Video Link:** Add the Google Drive video link after uploading the 2–3 minute demonstration video.
+2. **Video Link:** https://drive.google.com/file/d/15BCU4GpglY6vabGbX8DCS6hWf3QCs22A/view?usp=sharing
